@@ -33,7 +33,7 @@ This example application provides a REST API for creating and viewing bank accou
 
 The following diagram shows the architecture:
 
-![Money transfer architecture](https://github.com/cer/event-sourcing-examples/wiki/i/applicationarchitecture.png)
+![Money transfer architecture](applicationarchitecture.png)
 
 There are the following  services:
 
